@@ -1,0 +1,23 @@
+{
+  "name": "phprun",
+  "version": "1.0.1",
+  "description": "Php runner",
+  "main": "index.js",
+  "bin": {
+    "phprun": "./bin/phprun.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thruthesky/phprun.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thruthesky/phprun/issues"
+  },
+  "homepage": "https://github.com/thruthesky/phprun#readme"
+}
